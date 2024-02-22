@@ -1,2 +1,2 @@
-# ac
-Repositório para a disciplina de Aprendizagem Computacional
+# AC
+UC/Aprendizagem Computacional
